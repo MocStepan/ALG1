@@ -23,43 +23,43 @@ public class Vanoce {
             gifts = sc.nextInt();
         }
         if (christmasTree >= 1) {
-            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 69; i++) {
+            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 63; i++) {
                 System.out.print(" ");
             }
             System.out.println("    @@          @@                                      @@@   @@              @@          @@");
-            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 69; i++) {
+            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 63; i++) {
                 System.out.print(" ");
             }
             System.out.println("    @@@        @@@                                     @@   @@ @@                          @@");
-            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 69; i++) {
+            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 63; i++) {
                 System.out.print(" ");
             }
             System.out.println("    @@@@      @@@@   @@@@  @@ @@@  @@ @@@ @@      @@  @@       @@ @@@  @@ @@@  @@   @@@@ @@@@@@  @@ @@  @@      @@@    @@@@");
-            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 69; i++) {
+            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 63; i++) {
                 System.out.print(" ");
             }
             System.out.println("    @@ @@    @@ @@  @@  @@ @@@  @@ @@@  @@ @@    @@   @@       @@@  @@ @@@  @@ @@  @@      @@    @@@  @@  @@  @@  @@  @@");
-            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 69; i++) {
+            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 63; i++) {
                 System.out.print(" ");
             }
             System.out.println("    @@  @@  @@  @@ @@@@@@  @@      @@       @@  @@    @@       @@   @@ @@      @@   @@@    @@    @@   @@  @@ @@   @@   @@@");
-            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 69; i++) {
+            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 63; i++) {
                 System.out.print(" ");
             }
             System.out.println("    @@   @@@@   @@  @@     @@      @@        @@@@      @@   @@ @@   @@ @@      @@     @@   @@ @@ @@       @@ @@   @@     @@");
-            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 69; i++) {
+            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 63; i++) {
                 System.out.print(" ");
             }
             System.out.println("    @@    @@    @@   @@@@  @@      @@         @@         @@@   @@   @@ @@       @@ @@@@     @@   @@       @@  @@@@ @@ @@@@");
-            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 69; i++) {
+            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 63; i++) {
                 System.out.print(" ");
             }
             System.out.println("                                             @@");
-            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 69; i++) {
+            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 63; i++) {
                 System.out.print(" ");
             }
             System.out.println("                                        @@  @@");
-            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 69; i++) {
+            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 63; i++) {
                 System.out.print(" ");
             }
             System.out.println("                                         @@@@");
@@ -164,53 +164,57 @@ public class Vanoce {
 
             System.out.println("[__][__]]/  /|\\-------/|\\   [__][__][]/ ");
         } else {
-            for (int i = 1; i <= (40+gifts*15)/2-69; i++) {
+            for (int i = 1; i <= (40+gifts*15)/2-63; i++) {
                 System.out.print(" ");
             }
             System.out.println("    @@          @@                                      @@@   @@              @@          @@");
-             for (int i = 1; i <= (40+gifts*15)/2-69; i++) {
+             for (int i = 1; i <= (40+gifts*15)/2-63; i++) {
                 System.out.print(" ");
             }
             System.out.println("    @@@        @@@                                     @@   @@ @@                          @@");
-             for (int i = 1; i <= (40+gifts*15)/2-69; i++) {
+             for (int i = 1; i <= (40+gifts*15)/2-63; i++) {
                 System.out.print(" ");
             }
             System.out.println("    @@@@      @@@@   @@@@  @@ @@@  @@ @@@ @@      @@  @@       @@ @@@  @@ @@@  @@   @@@@ @@@@@@  @@ @@  @@      @@@    @@@@");
-             for (int i = 1; i <= (40+gifts*15)/2-69; i++) {
+             for (int i = 1; i <= (40+gifts*15)/2-63; i++) {
                 System.out.print(" ");
             }
             System.out.println("    @@ @@    @@ @@  @@  @@ @@@  @@ @@@  @@ @@    @@   @@       @@@  @@ @@@  @@ @@  @@      @@    @@@  @@  @@  @@  @@  @@");
-             for (int i = 1; i <= (40+gifts*15)/2-69; i++) {
+             for (int i = 1; i <= (40+gifts*15)/2-63; i++) {
                 System.out.print(" ");
             }
             System.out.println("    @@  @@  @@  @@ @@@@@@  @@      @@       @@  @@    @@       @@   @@ @@      @@   @@@    @@    @@   @@  @@ @@   @@   @@@");
-             for (int i = 1; i <= (40+gifts*15)/2-69; i++) {
+             for (int i = 1; i <= (40+gifts*15)/2-63; i++) {
                 System.out.print(" ");
             }
             System.out.println("    @@   @@@@   @@  @@     @@      @@        @@@@      @@   @@ @@   @@ @@      @@     @@   @@ @@ @@       @@ @@   @@     @@");
-             for (int i = 1; i <= (40+gifts*15)/2-69; i++) {
+             for (int i = 1; i <= (40+gifts*15)/2-63; i++) {
                 System.out.print(" ");
             }
             System.out.println("    @@    @@    @@   @@@@  @@      @@         @@         @@@   @@   @@ @@       @@ @@@@     @@   @@       @@  @@@@ @@ @@@@");
-             for (int i = 1; i <= (40+gifts*15)/2-69; i++) {
+             for (int i = 1; i <= (40+gifts*15)/2-63; i++) {
                 System.out.print(" ");
             }
-            System.out.println("                                             @@");
-             for (int i = 1; i <= (40+gifts*15)/2-69; i++) {
+            System.out.println("    *       *         *             *         @@    *         *      *                *        *         *        *    *");
+             for (int i = 1; i <= (40+gifts*15)/2-63; i++) {
                 System.out.print(" ");
             }
-            System.out.println("                                        @@  @@");
-             for (int i = 1; i <= (40+gifts*15)/2-69; i++) {
+            System.out.println("       *        *             *      *  @@  @@  *               *          *          *          *          *      *    ");
+             for (int i = 1; i <= (40+gifts*15)/2-63; i++) {
                 System.out.print(" ");
             }
-            System.out.println("                                         @@@@");
-            System.out.println("[__][__][(******)__][__](******)[__][] |");
-            System.out.println("[][__][__(******)][__][_(******)_][__] |");
-            System.out.println("[__][__][_|    |[__][__][|    |][__][] |");
-            System.out.println("[][__][__]|   .|_][__][__]   .|__][__] |");
-            System.out.println("[__][__][/   <_)[__][__]/   <_)][__][] |");
-            System.out.println("[][__][ /..,/][__][__][/..,/_][__][__] |");
-            System.out.println("[__][__(__/][__][__][_(__/_][__][__][] |");
+            System.out.println("     *  *        *      *            *   @@@@        *     *           *      *            *         *         *       *");
+            System.out.println("                      *    *       *           *         *       *         *      *           *   *         *   *    *       *    *       *");
+            System.out.println("                     *         *          *        *          *        *        *     *     *       *      *        *    *       *    *    ");
+            System.out.println("                        *         * *          *       *    *       *        *     *     *     *        *     *         *            *     ");
+            
+            System.out.println("[__][__][(******)__][__](******)[__][] |     *           *         *         *            *      *           *        *        *        *  ");
+            System.out.println("[][__][__(******)][__][_(******)_][__] |  *        *       *     *                  *       *           *                   *         *    ");
+            System.out.println("[__][__][_|    |[__][__][|    |][__][] |         *                 *         *                  *             *                 *          ");
+            System.out.println("[][__][__]|   .|_][__][__]   .|__][__] |       *         *             *            *              *               *     *            *    ");
+            System.out.println("[__][__][/   <_)[__][__]/   <_)][__][] |    *          *         *           *             *          *           *            *          *");
+            System.out.println("[][__][ /..,/][__][__][/..,/_][__][__] |  *       *                *               *             *          *                       *      ");
+            System.out.println("[__][__(__/][__][__][_(__/_][__][__][] |      *         *                 *                *         *               *         *        *  ");
             System.out.print("[__][__]] |     ,  , .      [__][__][] |");
             for (int i = 1; i <= gifts; i++) {
                 System.out.print("   ____(|)____ ");
