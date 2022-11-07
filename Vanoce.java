@@ -6,10 +6,6 @@ package vanoce;
 
 import java.util.Scanner;
 
-/**
- *
- * @author stemo
- */
 public class Vanoce {
 
     public static void main(String[] args) {
@@ -27,9 +23,50 @@ public class Vanoce {
             gifts = sc.nextInt();
         }
         if (christmasTree >= 1) {
+            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 69; i++) {
+                System.out.print(" ");
+            }
+            System.out.println("    @@          @@                                      @@@   @@              @@          @@");
+            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 69; i++) {
+                System.out.print(" ");
+            }
+            System.out.println("    @@@        @@@                                     @@   @@ @@                          @@");
+            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 69; i++) {
+                System.out.print(" ");
+            }
+            System.out.println("    @@@@      @@@@   @@@@  @@ @@@  @@ @@@ @@      @@  @@       @@ @@@  @@ @@@  @@   @@@@ @@@@@@  @@ @@  @@      @@@    @@@@");
+            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 69; i++) {
+                System.out.print(" ");
+            }
+            System.out.println("    @@ @@    @@ @@  @@  @@ @@@  @@ @@@  @@ @@    @@   @@       @@@  @@ @@@  @@ @@  @@      @@    @@@  @@  @@  @@  @@  @@");
+            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 69; i++) {
+                System.out.print(" ");
+            }
+            System.out.println("    @@  @@  @@  @@ @@@@@@  @@      @@       @@  @@    @@       @@   @@ @@      @@   @@@    @@    @@   @@  @@ @@   @@   @@@");
+            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 69; i++) {
+                System.out.print(" ");
+            }
+            System.out.println("    @@   @@@@   @@  @@     @@      @@        @@@@      @@   @@ @@   @@ @@      @@     @@   @@ @@ @@       @@ @@   @@     @@");
+            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 69; i++) {
+                System.out.print(" ");
+            }
+            System.out.println("    @@    @@    @@   @@@@  @@      @@         @@         @@@   @@   @@ @@       @@ @@@@     @@   @@       @@  @@@@ @@ @@@@");
+            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 69; i++) {
+                System.out.print(" ");
+            }
+            System.out.println("                                             @@");
+            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 69; i++) {
+                System.out.print(" ");
+            }
+            System.out.println("                                        @@  @@");
+            for (int i = 1; i <= (40 + christmasTree * 16 + bfTree * 15 + afTree * 15) / 2 - 69; i++) {
+                System.out.print(" ");
+            }
+            System.out.println("                                         @@@@");
+
             System.out.println("[__][__][(******)__][__](******)[__][] |");
             System.out.print("[][__][__(******)][__][_(******)_][__] |");
-            for (int i = 1; i <=bfTree; i++) {
+            for (int i = 1; i <= bfTree; i++) {
                 System.out.print("               ");
             }
             for (int i = 1; i <= christmasTree; i++) {
@@ -37,7 +74,7 @@ public class Vanoce {
             }
             System.out.println("");
             System.out.print("[__][__][_|    |[__][__][|    |][__][] |");
-            for (int i = 1; i <=bfTree; i++) {
+            for (int i = 1; i <= bfTree; i++) {
                 System.out.print("               ");
             }
             for (int i = 1; i <= christmasTree; i++) {
@@ -45,7 +82,7 @@ public class Vanoce {
             }
             System.out.println("");
             System.out.print("[][__][__]|   .|_][__][__]   .|__][__] |");
-            for (int i = 1; i <=bfTree; i++) {
+            for (int i = 1; i <= bfTree; i++) {
                 System.out.print("               ");
             }
             for (int i = 1; i <= christmasTree; i++) {
@@ -53,7 +90,7 @@ public class Vanoce {
             }
             System.out.println("");
             System.out.print("[__][__][/   <_)[__][__]/   <_)][__][] |");
-            for (int i = 1; i <=bfTree; i++) {
+            for (int i = 1; i <= bfTree; i++) {
                 System.out.print("               ");
             }
             for (int i = 1; i <= christmasTree; i++) {
@@ -61,7 +98,7 @@ public class Vanoce {
             }
             System.out.println("");
             System.out.print("[][__][ /..,/][__][__][/..,/_][__][__] |");
-            for (int i = 1; i <=bfTree; i++) {
+            for (int i = 1; i <= bfTree; i++) {
                 System.out.print("               ");
             }
             for (int i = 1; i <= christmasTree; i++) {
@@ -69,17 +106,14 @@ public class Vanoce {
             }
             System.out.println("");
             System.out.print("[__][__(__/][__][__][_(__/_][__][__][] |");
-            for (int i = 1; i <=bfTree; i++) {
+            for (int i = 1; i <= bfTree; i++) {
                 System.out.print("               ");
             }
             for (int i = 1; i <= christmasTree; i++) {
                 System.out.print("     //o/*\\\\i\\  ");
             }
             System.out.println("");
-            
-            
-            
-            
+
             System.out.print("[__][__]] |     ,  , .      [__][__][] |");
             for (int i = 1; i <= bfTree; i++) {
                 System.out.print("   ____(|)____ ");
@@ -91,8 +125,7 @@ public class Vanoce {
                 System.out.print("   ____(|)____ ");
             }
             System.out.println("");
-            
-            
+
             System.out.print("[][__][_] |   . i. '/ ,     [][__][__] |");
             for (int i = 1; i <= bfTree; i++) {
                 System.out.print("  |_____|_____|");
@@ -104,7 +137,7 @@ public class Vanoce {
                 System.out.print("  |_____|_____|");
             }
             System.out.println("");
-            
+
             System.out.print("[__][__]] |  O \\ / /, O     [__][__][] |");
             for (int i = 1; i <= bfTree; i++) {
                 System.out.print("  |     |     |");
@@ -116,48 +149,86 @@ public class Vanoce {
                 System.out.print("  |     |     |");
             }
             System.out.println("");
-            
+
             System.out.print("[][__][_] |__|======='=|____[][__][__] |");
             for (int i = 1; i <= bfTree; i++) {
                 System.out.print("__|_____|_____|");
             }
             for (int i = 1; i <= christmasTree; i++) {
                 System.out.print("_________||_____");
-            }   
+            }
             for (int i = 1; i <= afTree; i++) {
                 System.out.print("__|_____|_____|");
             }
             System.out.println("");
-            
+
             System.out.println("[__][__]]/  /|\\-------/|\\   [__][__][]/ ");
-        }
-        else{
+        } else {
+            for (int i = 1; i <= (40+gifts*15)/2-69; i++) {
+                System.out.print(" ");
+            }
+            System.out.println("    @@          @@                                      @@@   @@              @@          @@");
+             for (int i = 1; i <= (40+gifts*15)/2-69; i++) {
+                System.out.print(" ");
+            }
+            System.out.println("    @@@        @@@                                     @@   @@ @@                          @@");
+             for (int i = 1; i <= (40+gifts*15)/2-69; i++) {
+                System.out.print(" ");
+            }
+            System.out.println("    @@@@      @@@@   @@@@  @@ @@@  @@ @@@ @@      @@  @@       @@ @@@  @@ @@@  @@   @@@@ @@@@@@  @@ @@  @@      @@@    @@@@");
+             for (int i = 1; i <= (40+gifts*15)/2-69; i++) {
+                System.out.print(" ");
+            }
+            System.out.println("    @@ @@    @@ @@  @@  @@ @@@  @@ @@@  @@ @@    @@   @@       @@@  @@ @@@  @@ @@  @@      @@    @@@  @@  @@  @@  @@  @@");
+             for (int i = 1; i <= (40+gifts*15)/2-69; i++) {
+                System.out.print(" ");
+            }
+            System.out.println("    @@  @@  @@  @@ @@@@@@  @@      @@       @@  @@    @@       @@   @@ @@      @@   @@@    @@    @@   @@  @@ @@   @@   @@@");
+             for (int i = 1; i <= (40+gifts*15)/2-69; i++) {
+                System.out.print(" ");
+            }
+            System.out.println("    @@   @@@@   @@  @@     @@      @@        @@@@      @@   @@ @@   @@ @@      @@     @@   @@ @@ @@       @@ @@   @@     @@");
+             for (int i = 1; i <= (40+gifts*15)/2-69; i++) {
+                System.out.print(" ");
+            }
+            System.out.println("    @@    @@    @@   @@@@  @@      @@         @@         @@@   @@   @@ @@       @@ @@@@     @@   @@       @@  @@@@ @@ @@@@");
+             for (int i = 1; i <= (40+gifts*15)/2-69; i++) {
+                System.out.print(" ");
+            }
+            System.out.println("                                             @@");
+             for (int i = 1; i <= (40+gifts*15)/2-69; i++) {
+                System.out.print(" ");
+            }
+            System.out.println("                                        @@  @@");
+             for (int i = 1; i <= (40+gifts*15)/2-69; i++) {
+                System.out.print(" ");
+            }
+            System.out.println("                                         @@@@");
             System.out.println("[__][__][(******)__][__](******)[__][] |");
             System.out.println("[][__][__(******)][__][_(******)_][__] |");
             System.out.println("[__][__][_|    |[__][__][|    |][__][] |");
             System.out.println("[][__][__]|   .|_][__][__]   .|__][__] |");
             System.out.println("[__][__][/   <_)[__][__]/   <_)][__][] |");
             System.out.println("[][__][ /..,/][__][__][/..,/_][__][__] |");
-            System.out.println("[__][__(__/][__][__][_(__/_][__][__][] |");                             
+            System.out.println("[__][__(__/][__][__][_(__/_][__][__][] |");
             System.out.print("[__][__]] |     ,  , .      [__][__][] |");
             for (int i = 1; i <= gifts; i++) {
                 System.out.print("   ____(|)____ ");
             }
             System.out.println("");
-            
-            
+
             System.out.print("[][__][_] |   . i. '/ ,     [][__][__] |");
             for (int i = 1; i <= gifts; i++) {
                 System.out.print("  |_____|_____|");
             }
             System.out.println("");
-            
+
             System.out.print("[__][__]] |  O \\ / /, O     [__][__][] |");
             for (int i = 1; i <= gifts; i++) {
                 System.out.print("  |     |     |");
             }
             System.out.println("");
-            
+
             System.out.print("[][__][_] |__|======='=|____[][__][__] |");
             for (int i = 1; i <= gifts; i++) {
                 System.out.print("__|_____|_____|");
